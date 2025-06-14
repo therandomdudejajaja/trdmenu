@@ -5,7 +5,7 @@ if you wish for a game to be included in this, open an issue. i'll respond when 
 it's either gonna be accepted, declined for whatever reason, or i'm too bad at luau to make it.
 
 ## currently supported games
-[Factory Madness] (www.roblox.com/games/101093141743055/)
+Factory Madness /*1*/*1*/*1*/ www.roblox.com/games/101093141743055/
 
 ## planned games
 none
