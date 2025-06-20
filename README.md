@@ -10,4 +10,7 @@ Factory Madness /*0*/*0*/*1*/ www.roblox.com/games/101093141743055/
 ## planned games
 none
 
+## planned features
+hub to detect games
+
 made using linoria library
